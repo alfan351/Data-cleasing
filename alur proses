@@ -1,0 +1,13 @@
+Load data (Google Sheet / CSV)
+↓
+Standarisasi nama kolom
+↓
+Cleaning teks (strip & title case)
+↓
+Normalisasi bulan (ID + EN + typo)
+↓
+Validasi tipe data numerik
+↓
+Deteksi & penanganan duplikasi
+↓
+Export dataset bersih
